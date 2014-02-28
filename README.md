@@ -7,8 +7,3 @@ from the [AppleScript TextMate bundle](https://github.com/textmate/applescript.t
 
 Contributions are greatly appreciated. Please fork this repository and open a
 pull request to add snippets, make grammar tweaks, etc.
-
-language-applescript
-====================
-
-Conversion of Text Mate AppleScript bundle
