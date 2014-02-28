@@ -1,0 +1,15 @@
+{
+  "name": "language-applescript",
+  "main": "./lib/language-applescript",
+  "version": "0.0.0",
+  "private": true,
+  "description": "A short description of your package",
+  "activationEvents": ["language-applescript:toggle"],
+  "repository": "https://github.com/atom/language-applescript",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
